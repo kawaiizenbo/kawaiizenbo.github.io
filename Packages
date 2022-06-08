@@ -108,35 +108,20 @@ Description: A simple tweak to disable youtube ads, enable background playback, 
 Author: Nathan
 Name: YTAdsDisablebg
 
-Package: io.github.oldworldordr.fixifileicon
-Version: 1.0.1
+Package: io.github.oldworldordr.iconfix
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: KawaiiZenbo
-Filename: ./debs/io.github.oldworldordr.fixifileicon.deb
-Size: 1166
-MD5sum: b8409a89e7488a18fb451f80b0c53fec
-SHA1: c517f9a044735a0d1a4aa2b2155d7957401d26ab
-SHA256: 8a81350149b993a992895e2715f896ebd5877f584e4e210e6688f6004ec98ddc
+Depends: curl
+Filename: ./debs/io.github.oldworldordr.iconfix-2.0.deb
+Size: 1630
+MD5sum: da6234c76a9b5e0fbf6dfd5c03b6f0d4
+SHA1: 62b8c699b20059604f88a4eb9286e9bce87ba4ea
+SHA256: 6ae57d9e9f48f41599a9806e9b7c4d6d3a63ebe632b2732947ac8350cb66e48e
 Section: Terminal Support
-Description: 2 bash scripts for fixing iFile and MTerminal icons
-Author: OldWorldOrder
-Depiction: http://kzkawaiizenbo.ml:8080/depictions/fixifileicon.html
-Name: Fix iFile Icon
-
-Package: io.github.oldworldordr.fixifileicon
-Version: 2.0
-Architecture: all
-Maintainer: KawaiiZenbo
-Pre-Depends: curl
-Filename: ./debs/io.github.oldworldordr.fixifileicon-2.0.deb
-Size: 1752
-MD5sum: 8d432197e0848108ebfeceaa059a8a01
-SHA1: f7c0fb4c6c1dc6693dc8f6bd623315d4f39c4c5f
-SHA256: 1009f3c30c1663583a6c2eba5fe97a7be83e7e0b625062687282eb64aff43536
-Section: Terminal Support
-Description: 2 shell scripts for fixing iFile and MTerminal icons
-Author: OldWorldOrder
-Name: Fix iFile Icon
+Description: A shell script that fixes the iFile and MTerminal icons on iOS 6 and below.
+Author: OldWorldOrder <joey.t.reinhart@gmail.com>
+Name: iFile/MTerminal icon fix
 
 Package: io.pangu.axe7
 Version: 0.3
