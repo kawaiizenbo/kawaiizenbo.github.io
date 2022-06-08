@@ -123,6 +123,21 @@ Author: OldWorldOrder
 Depiction: http://kzkawaiizenbo.ml:8080/depictions/fixifileicon.html
 Name: Fix iFile Icon
 
+Package: io.github.oldworldordr.fixifileicon
+Version: 2.0
+Architecture: all
+Maintainer: KawaiiZenbo
+Pre-Depends: curl
+Filename: ./debs/io.github.oldworldordr.fixifileicon-2.0.deb
+Size: 1752
+MD5sum: 8d432197e0848108ebfeceaa059a8a01
+SHA1: f7c0fb4c6c1dc6693dc8f6bd623315d4f39c4c5f
+SHA256: 1009f3c30c1663583a6c2eba5fe97a7be83e7e0b625062687282eb64aff43536
+Section: Terminal Support
+Description: 2 shell scripts for fixing iFile and MTerminal icons
+Author: OldWorldOrder
+Name: Fix iFile Icon
+
 Package: io.pangu.axe7
 Version: 0.3
 Architecture: iphoneos-arm
