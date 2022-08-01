@@ -183,6 +183,21 @@ Description: A shell script that fixes the iFile and MTerminal icons on iOS 6 an
 Author: OldWorldOrder <joey.t.reinhart@gmail.com>
 Name: iFile/MTerminal icon fix
 
+Package: io.github.oldworldordr.iconfix
+Version: 4.0.1
+Architecture: iphoneos-arm
+Maintainer: KawaiiZenbo
+Depends: curl
+Filename: ./debs/io.github.oldworldordr.iconfix-4.0.1.deb
+Size: 2058
+MD5sum: 7d6441b1b030736ddf966cb88ebb5766
+SHA1: 4dab75d18346812c8ad491a99b28abe640618bfc
+SHA256: 531497f8c23962295f01145745021ea4ce573f713f85388e4dee0f5f0a24b63a
+Section: Terminal Support
+Description: A shell script that fixes the iFile and MTerminal icons on iOS 6 and below.
+Author: OldWorldOrder <joey.t.reinhart@gmail.com>
+Name: iFile/MTerminal icon fix
+
 Package: io.pangu.axe7
 Version: 0.3
 Architecture: iphoneos-arm
